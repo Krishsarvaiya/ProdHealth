@@ -1,4 +1,3 @@
-# ProdHealth - The Packet Food Analyzer
 # ProdHealth – The Packet Food Analyzer
 
 ## 📌 Overview
